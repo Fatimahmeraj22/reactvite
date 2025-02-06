@@ -1,0 +1,21 @@
+//steps for ReactSetup
+
+
+
+
+1.React is library for building components
+2.To install react you need nodejs and npm 
+3.To setup react yonu need tools like 
+  -CRA (Dead)
+  - Vite 
+
+
+
+  4. cd repoNAme
+  5.npm create vite@latest
+  6.Enter folder name as client 
+  7.select react and next js
+  cd client 
+  npm init 
+  npm run dev
+  
